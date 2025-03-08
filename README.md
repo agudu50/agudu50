@@ -170,6 +170,29 @@ kelvin-agyare-yeboah-6728a7301
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/agudu50">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" alt="Tony's Most Used Languages"/>
+  </a>
+  <a href="https://github.com/agudu50">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=radical" alt="Tony's GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/agudu50">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=radical" alt="Tony's GitHub Activity Graph"/>
+  </a>
+</p>
+
+---
+
+### 🏆 **GitHub Overview**
+- 📌 **Total Repositories:** `<!-- Add your repo count manually -->`
+- 🚀 **Joined GitHub:** **2024**
+- 🔥 **Active Contributions:** Check the stats & activity graph above!
+
+
 
 ![Tony's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTony&custom_title=Dev%20Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
