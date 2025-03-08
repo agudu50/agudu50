@@ -166,10 +166,9 @@ kelvin-agyare-yeboah-6728a7301
 
 <p align="center">
   <a href="https://github.com/agudu50">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevTony&theme=radical" alt="Tony's GitHub Contribution"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical" alt="Tony's GitHub Stats"/>
   </a>
 </p>
-
 
 
 ![Tony's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTony&custom_title=Dev%20Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
