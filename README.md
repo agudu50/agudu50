@@ -152,7 +152,8 @@ kelvin-agyare-yeboah-6728a7301
 </div>
 
 ### ✍ Debugging Quote
-![](https://img.shields.io/badge/Debugging%20is%20like%20being%20a%20detective.-You%20are%20also%20the%20murderer.-red?style=for-the-badge)
+![](https://img.shields.io/badge/🚨%20Debugging%20is%20like%20solving%20a%20crime.-Only%20you%20committed%20it!%20🔍-red?style=for-the-badge)
+
 
 ---
 
