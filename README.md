@@ -6,7 +6,7 @@
 
 </p>
 <!-- <h1 align="center">Hi👋, I'm Kelvin Yeboah</h1> -->
-<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+ I'm + Anthony + Gudu+;Into+Full+Stack+Development+And+ML+Enthusiast...👨🏻‍💻;" style="width: 100%;">
+<img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+ I'm + Anthony + Gudu;Into+Full+Stack+Development+And+ML+Enthusiast...👨🏻‍💻;" style="width: 100%;">
 
 
 
@@ -203,14 +203,14 @@ kelvin-agyare-yeboah-6728a7301
 </div>
 
 <p align="center">
-  <a href="https://github.com/KelvCodes">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KelvCodes&theme=radical" alt="Kel's GitHub Contribution"/>
+  <a href="https://github.com/agudu50">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevTony&theme=radical" alt="Kel's GitHub Contribution"/>
   </a>
 </p>
 
 
 
-![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvCodes&custom_title=Kelv%20Codes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![kel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTony&custom_title=Dev%20Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
