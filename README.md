@@ -188,7 +188,7 @@ kelvin-agyare-yeboah-6728a7301
 ---
 
 ### 🏆 **GitHub Overview**
-- 📌 **Total Repositories:** `<!-- Add your repo count manually -->`
+- 📌 **Total Repositories:**10**
 - 🚀 **Joined GitHub:** **2024**
 - 🔥 **Active Contributions:** Check the stats & activity graph above!
 
