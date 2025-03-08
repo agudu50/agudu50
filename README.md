@@ -151,8 +151,9 @@ kelvin-agyare-yeboah-6728a7301
        alt="Anhtony's contribution snake" /></a>
 </div>
 
-### ✍ Debugging Quote
-![](https://img.shields.io/badge/🚨%20Debugging%20is%20like%20solving%20a%20crime.-Only%20you%20committed%20it!%20🔍-red?style=for-the-badge)
+### ✍Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 
 
 ---
