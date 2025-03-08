@@ -155,9 +155,8 @@ kelvin-agyare-yeboah-6728a7301
        alt="Anhtony's contribution snake" /></a>
 </div>
 
-### ✍ Custom Dev Quote
-![](https://img.shields.io/badge/First%2C%20solve%20the%20problem.-Then%2C%20write%20the%20code.-blue?style=for-the-badge)
-
+### ✍ Debugging Quote
+![](https://img.shields.io/badge/Debugging%20is%20like%20being%20a%20detective.-You%20are%20also%20the%20murderer.-red?style=for-the-badge)
 
 ---
 
@@ -169,7 +168,7 @@ kelvin-agyare-yeboah-6728a7301
 
 <p align="center">
   <a href="https://github.com/agudu50">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevTony&theme=radical" alt="Kel's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevTony&theme=radical" alt="Tony's GitHub Contribution"/>
   </a>
 </p>
 
