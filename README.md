@@ -5,7 +5,7 @@
   <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/>
 
 </p>
-<!-- <h1 align="center">Hi👋, I'm Kelvin Yeboah</h1> -->
+<!-- <h1 align="center">Hi👋, I'm Anthony Gudu but I like to be called DevTony </h1> -->
 <img src="http://readme-typing-svg.herokuapp.com?font=Josefin+Slab&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There+%F0%9F%91%8B%2C+ I'm + Anthony +Gudu; +Into+Full+Stack+Development+And+ML+Enthusiast...👨🏻‍💻;" style="width: 100%;">
 
 
@@ -67,7 +67,9 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <p align="center">
 	
 <a href="https://wa.me/+233558524473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="agudu50" height="50" width="100" /></a>
-<a href="www.linkedin.com/in/anthony-gudu-749234351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudu50" height="50" width="100" /></a>
+<a href="https://www.linkedin.com/in/anthony-gudu-749234351" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudu50" height="50" width="100" />
+</a>
 <a href="https://www.snapchat.com/add/gudujnr008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="gudujnr008" height="50" width="100" /></a>
 <a href="https://www.instagram.com/a.gudu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelvCodes" height="50" width="100" /></a>
 <a href="https://github.com/agudu50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="agudu50" height="50" width="100" /></a>
