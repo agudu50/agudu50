@@ -178,7 +178,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
   <!-- GitHub Stats -->
   <a href="https://github.com/agudu50">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=radical" alt="Tony's GitHub Stats" height="180"/>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=radical"
+alt="Tony's GitHub Stats" height="180"/>
   </a>
 </p>
 
