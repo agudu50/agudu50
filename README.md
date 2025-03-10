@@ -165,28 +165,21 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 </div>
 
 <p align="center">
-  <a href="https://github.com/agudu50">
-    <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical" alt="Tony's GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
   <!-- Most Used Languages -->
   <a href="https://github.com/agudu50">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" alt="Tony's Most Used Languages" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=github_dark" alt="Tony's Most Used Languages" height="180"/>
   </a>
 
-  <!-- GitHub Stats -->
+  <!-- Fixed GitHub Stats (Higher Resolution) -->
   <a href="https://github.com/agudu50">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=radical"
-alt="Tony's GitHub Stats" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=github_dark&border=FFFFFF" alt="Tony's GitHub Stats" height="180"/>
   </a>
 </p>
 
 <p align="center">
   <!-- GitHub Activity Graph -->
   <a href="https://github.com/agudu50">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=radical" alt="Tony's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=github-dark" alt="Tony's GitHub Activity Graph"/>
   </a>
 </p>
 
