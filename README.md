@@ -15,7 +15,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h3 align="center">🎨 Software Frontend Engineer 💻 | Graphic Designer 🖼 | ML & Blockchain Enthusiast 🤖 | Web Designer🚀</h3>
-<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Digital Creator, and AI and Blockchain Enthusiast 🤖.
+<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI and Blockchain Enthusiast 🤖.
 
 With a deep interest in Full Stack Web & App Development, Software Engineering and Development, and Artificial Intelligence, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve. I thrive on exploring new tech stacks 🖥, crafting innovative solutions 🛠, and building projects that redefine possibilities 🚀.
 
@@ -45,9 +45,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 
 
-- 🔭 I’m currently working on BrainFrys (a better version of w3schools)
 
-- 🌱 I’m currently learning Full-Stack Development(MERN),AI/ML,Python and Video Editing
+- 🌱 I’m currently learning Full-Stack Development(MERN),AI/ML,Python,Java and Graphic Designing
 
 - 👯 I’m eagerly looking to collaborate with  Other Developers to build world class  projects.
 
@@ -59,7 +58,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 📄 Know about my experiences [portfolio]().
 
-- ⚡ Fun fact; I am social, and an opened person.
+- ⚡ Fun fact; I am social, an opened person and kind of shy when meeting you for the first time.
 
 
  
@@ -68,9 +67,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 <p align="center">
 	
 <a href="https://wa.me/+233558524473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="agudu50" height="50" width="100" /></a>
-<a href="www.linkedin.com/in/
-kelvin-agyare-yeboah-6728a7301
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudu50" height="50" width="100" /></a>
+<a href="www.linkedin.com/in/anthony-gudu-749234351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agudu50" height="50" width="100" /></a>
 <a href="https://www.snapchat.com/add/gudujnr008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="gudujnr008" height="50" width="100" /></a>
 <a href="https://www.instagram.com/a.gudu_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelvCodes" height="50" width="100" /></a>
 <a href="https://github.com/agudu50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="agudu50" height="50" width="100" /></a>
