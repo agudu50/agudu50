@@ -6,7 +6,7 @@
 
 </p>
 <!-- <h1 align="center">Hi👋, I'm Anthony Gudu but I like to be called DevTony </h1> -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=22&duration=2000&pause=1000&color=F75C5C&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B,+I'm+Anthony+Gudu!;Passionate+Full+Stack+Developer+%F0%9F%92%BB;ML+Enthusiast+%F0%9F%A7%91‍%F0%9F%92%BB;Building+Scalable+and+Efficient+Applications+%E2%9C%A8;Loves+Problem+Solving+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%92%A1" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=22&duration=2000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B,+I'm+Anthony+Gudu!;Passionate+Full+Stack+Developer+%F0%9F%92%BB;ML+Enthusiast+%F0%9F%A7%91‍%F0%9F%92%BB;Building+Scalable+and+Efficient+Applications+%E2%9C%A8;Loves+Problem+Solving+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%92%A1" style="width: 100%;">
 
 
 
