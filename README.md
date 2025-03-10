@@ -174,10 +174,10 @@ For me, technology isn’t just about coding—it’s about creating, innovating
   <a href="https://github.com/agudu50">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" alt="Tony's Most Used Languages"/>
   </a>
-  <a href="https://github.com/agudu50">
+ <a href="https://github.com/agudu50">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=radical" alt="Tony's GitHub Stats"/>
-  </a>
-</p>
+</a>
+
 
 <p align="center">
   <a href="https://github.com/agudu50">
