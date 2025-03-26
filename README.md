@@ -198,12 +198,14 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ## 🏆 Awards & Achievements
 
-### 🎖 *TEENS IN AI #IWD GLOBAL TECHATHON *  
+### 🎖 *TEENS IN AI #IWD GLOBAL TECHATHON*  
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
+
 🏅 *Awarded by:* TEENS IN AI  
-📅 *Year:* 2025
-📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)]
-(https://learn.teensinai.com/certificates/yudjsimbhg)
+📅 *Year:* 2025  
+
+📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://learn.teensinai.com/certificates/yudjsimbhg)
+
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
