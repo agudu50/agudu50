@@ -205,8 +205,7 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ---
 
-### 🏅 Introduction to AI - Online Course  
-![Award Badge](https://img.shields.io/badge/Achievement-Certificate-green?style=for-the-badge&logo=ai)  
+### 🏅 Introduction to AI - Online Course   
 📖 **Course:** Introduction to AI  
 🎓 **Platform:** Simplilearn  
 📅 **Year:** 2025  
