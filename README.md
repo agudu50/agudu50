@@ -59,7 +59,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 - 📄 Know about my experiences [portfolio]().
 
-- ⚡ Fun fact; I am social, an opened person and kind of shy when meeting you for the first time.
+- ⚡ Fun fact: I'm social and open-minded but a bit shy on first meetings!
+
 
 
  
@@ -195,6 +196,11 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ![Tony's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTony&custom_title=Dev%20Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+## ACHIEVEMENT AND CERTIFICATION
+## 🎓 Certificate of Participation inTeens in AI #IWD2025 Global Techathon
+<p align="center">
+  <img src="https://learn.teensinai.com/certificates/yudjsimbhg" alt="Techathon Certificate" width="600px"/>
+</p>
 
 
 <!-- RAINBOW LINE TOP -->
