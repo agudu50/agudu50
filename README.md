@@ -202,7 +202,8 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 ![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
 🏅 *Awarded by:* TEENS IN AI  
 📅 *Year:* 2025
-📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://github.com/agudu50/agudu50/blob/main/award_cerficate.jpg)
+📜 *Certificate:* [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)]
+(https://learn.teensinai.com/certificates/yudjsimbhg)
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
