@@ -196,10 +196,9 @@ For me, technology isn’t just about coding—it’s about creating, innovating
 
 ![Tony's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevTony&custom_title=Dev%20Tony's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-## 🎖 Achievements  
+## 🎖 Achievements and Certificates
 
-### 🏆 TEENS IN AI #IWD GLOBAL TECHATHON  
-![Award Badge](https://img.shields.io/badge/Achievement-Gold-brightgreen?style=for-the-badge&logo=github)  
+### 🏆 TEENS IN AI #IWD GLOBAL TECHATHON    
 🏅 **Awarded by:** TEENS IN AI  
 📅 **Year:** 2025  
 📜 **Certificate:** [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://learn.teensinai.com/certificates/yudjsimbhg)  
