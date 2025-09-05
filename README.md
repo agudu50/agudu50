@@ -105,9 +105,6 @@ With a deep interest in Full Stack Development, Software Engineering, and AI, Iâ
   <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/master/docs/demo/profile-gitblock.svg" width="700"/>
-</p>
 
 ---
 
