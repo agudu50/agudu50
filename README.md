@@ -35,7 +35,7 @@ With a deep interest in Full Stack Development, Software Engineering, and AI, I�
 - 🤝 Looking for help with **projects & sponsors**  
 - 👨‍💻 Check out my repos (⭐ them if you like)  
 - 📫 Reach me at **anthonygudu2020@gmail.com**  
-- 📄 View my portfolio [] (agudu-portfolio-website.vercel.app)  
+- 📄 [View my portfolio](https://agudu-portfolio-website.vercel.app)
 - ⚡ Fun fact: Social & open-minded but a little shy at first 😅  
 
 ---
