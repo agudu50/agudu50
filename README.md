@@ -65,18 +65,33 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="center"> 
-<a href="https://github.com/agudu50"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=github_dark" height="180"/> </a> 
-<a href="https://github.com/agudu50"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agudu50&theme=github_dark" height="180"/> </a> 
-</p> 
-<p align="center"> 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=github-dark"/> 
-</p> 
-<p align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=radical" alt="GitHub Streak" /> 
-</p> 
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=15&margin-h=15" /> 
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=github-dark&hide_border=true&area=true" width="95%"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <!-- Profile Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <!-- Metrics Overview -->
+  <img src="https://metrics.lecoq.io/agudu50?template=classic&languages=1&isocalendar=1&followup=1&notable=1&achievements=1&config.timezone=Africa%2FAccra" width="95%"/>
 </p>
 
 ---
