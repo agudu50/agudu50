@@ -80,19 +80,29 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+### 🔥 GitHub Contribution Streaks
+
+<p align="center">
+  <!-- Default Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
+
+  <!-- Alternative Theme (Gradient) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=highcontrast&hide_border=true&fire=DD2727&ring=FFB800&currStreakLabel=00FF99" height="180" alt="GitHub Streak Alternative"/>
 </p>
 
 <p align="center">
-  <!-- Profile Trophy Showcase -->
-  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
+  <!-- Streak in Dark Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=gruvbox_duo&hide_border=true" height="180" alt="GitHub Streak Dark"/>
+
+  <!-- Streak in Light Mode -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=default&hide_border=true" height="180" alt="GitHub Streak Light"/>
 </p>
 
 <p align="center">
-  <!-- Metrics Overview -->
-  <img src="https://metrics.lecoq.io/agudu50?template=classic&languages=1&isocalendar=1&followup=1&notable=1&achievements=1&config.timezone=Africa%2FAccra" width="95%"/>
+  <!-- Streak with Transparent Background -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=transparent&hide_border=true" height="180" alt="GitHub Streak Transparent"/>
 </p>
+
 
 ---
 
