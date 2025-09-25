@@ -42,9 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -58,62 +55,7 @@
 <a href="#"><img alt="JSON" src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a> 
 <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white" /></a> 
 <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a> 
-<a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white"/></a> 
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/></a> 
 </p>
-
----
-
-### 📝 Blog & Articles
-<p align="center"> 
-<a href="https://dev.to/agudu50"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a> 
-<a href="https://medium.com/@anthonygudu2020"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> 
-</p>
-<p align="center">Check out my latest articles on web development, AI, and blockchain! ✍️</p>
-
----
-
-### 📌 Pinned Repositories
-<p align="center"> 
-<!-- Replace with your actual repository names below -->
-<a href="https://github.com/agudu50/your-repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=your-repo-1&theme=radical" /></a> 
-<a href="https://github.com/agudu50/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=your-repo-2&theme=radical" /></a> 
-</p>
-<p align="center">📍 Note: Update the above with your actual repository names! Explore my top projects and feel free to contribute or give a ⭐!</p>
-
----
-
-### 🏗️ Project Showcase
-#### 🌟 Project 1: [Your Project Name]
-- **Description**: A brief overview of a key project (e.g., a web app, ML model, or design portfolio). Describe its purpose and impact.
-- **Tech Stack**: React, Node.js, MongoDB
-- **Link**: [GitHub Repo or Live Demo](https://github.com/agudu50/your-repo-1)
-
-#### 🌟 Project 2: [Your Project Name]
-- **Description**: A brief overview of another project, showcasing your skills in AI, blockchain, or full-stack development.
-- **Tech Stack**: Python, Django, Tailwind CSS
-- **Link**: [GitHub Repo or Live Demo](https://github.com/agudu50/your-repo-2)
-
----
-
-### 📈 Skills Progress
-<p align="center">
-  <b>Frontend Development</b> <br> 
-  <img src="https://progress-bar.dev/90/?title=React&width=200" alt="React Progress" /> <br>
-  <b>Backend Development</b> <br> 
-  <img src="https://progress-bar.dev/80/?title=Node.js&width=200" alt="Node.js Progress" /> <br>
-  <b>Machine Learning</b> <br> 
-  <img src="https://progress-bar.dev/70/?title=Python&width=200" alt="Python Progress" /> <br>
-  <b>Graphic Design</b> <br> 
-  <img src="https://progress-bar.dev/85/?title=Figma&width=200" alt="Figma Progress" />
-</p>
-
----
-
-### 🌍 Open Source Contributions
-- Contributed to **[Repo Name]** by adding features/fixing bugs. [Link to PR or Issue]
-- Active participant in open-source communities, passionate about collaborative coding! 🚀
-<p align="center">Interested in contributing together? Reach out! 🤝</p>
 
 ---
 
@@ -145,18 +87,35 @@
 
 ---
 
-### 📬 Get in Touch
-<p align="center"> 
-<a href="https://agudu-portfolio-website.vercel.app/contact"><img src="https://img.shields.io/badge/Contact%20Form-Get%20in%20Touch-green?style=flat-square&logo=mailgun" alt="Contact Form"></a> 
-</p>
-<p align="center">💼 Open to freelance, full-time, or collaborative opportunities. Let’s create something amazing together! 🚀</p>
-
----
-
 ### ✍ Random Dev Quote 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) 
 
+---
+
+### 🌟 Featured Projects
+- **[Your Project Name]**: A web application showcasing my full-stack skills. Built with React, Node.js, and MongoDB. [View on GitHub](https://github.com/agudu50/your-repo-1) | [Live Demo](#)
+- **[Your Project Name]**: An AI-driven project exploring machine learning concepts. Built with Python and Django. [View on GitHub](https://github.com/agudu50/your-repo-2) | [Live Demo](#)
+<p align="center">📍 Note: Update the above with your actual project names and links!</p>
+
+---
+
+### 🤖 Tech Interests
+- **AI & Machine Learning**: Exploring neural networks, NLP, and predictive modeling with Python.
+- **Blockchain**: Learning about decentralized applications and smart contracts.
+- **Graphic Design**: Crafting visually appealing UI/UX with Figma and Adobe tools.
+- **Full Stack Development**: Building scalable apps with MERN and Django.
+
+---
+
+### 🔗 Quick Links
+<p align="center">
+  <a href="https://agudu-portfolio-website.vercel.app">Portfolio</a> • 
+  <a href="mailto:anthonygudu2020@gmail.com">Email Me</a> • 
+  <a href="https://github.com/agudu50">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/anthony-gudu-749234351">LinkedIn</a>
+</p>
+
 <!-- Snake Animation --> 
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> 
 </div>
