@@ -92,12 +92,6 @@
 
 ---
 
-### 🌟 Featured Projects
-- **[Your Project Name]**: A web application showcasing my full-stack skills. Built with React, Node.js, and MongoDB. [View on GitHub](https://github.com/agudu50/your-repo-1) | [Live Demo](#)
-- **[Your Project Name]**: An AI-driven project exploring machine learning concepts. Built with Python and Django. [View on GitHub](https://github.com/agudu50/your-repo-2) | [Live Demo](#)
-<p align="center">📍 Note: Update the above with your actual project names and links!</p>
-
----
 
 ### 🤖 Tech Interests
 - **AI & Machine Learning**: Exploring neural networks, NLP, and predictive modeling with Python.
