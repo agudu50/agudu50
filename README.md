@@ -82,16 +82,6 @@
 <p align="center">
 ---
 
-### 🔥 GitHub Contribution Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agudu50&theme=highcontrast&hide_border=true&fire=DD2727&ring=FFB800&currStreakLabel=00FF99" height="180" alt="GitHub Streak Alt"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 <p align="center">
