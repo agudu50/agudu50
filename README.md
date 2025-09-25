@@ -75,10 +75,45 @@
 
 ### 📌 Pinned Repositories
 <p align="center"> 
-<a href="https://github.com/agudu50/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=project1&theme=radical" /></a> 
-<a href="https://github.com/agudu50/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=project2&theme=radical" /></a> 
+<!-- Replace with your actual repository names below -->
+<a href="https://github.com/agudu50/your-repo-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=your-repo-1&theme=radical" /></a> 
+<a href="https://github.com/agudu50/your-repo-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=agudu50&repo=your-repo-2&theme=radical" /></a> 
 </p>
-<p align="center">Explore my top projects and feel free to contribute or give a ⭐!</p>
+<p align="center">📍 Note: Update the above with your actual repository names! Explore my top projects and feel free to contribute or give a ⭐!</p>
+
+---
+
+### 🏗️ Project Showcase
+#### 🌟 Project 1: [Your Project Name]
+- **Description**: A brief overview of a key project (e.g., a web app, ML model, or design portfolio). Describe its purpose and impact.
+- **Tech Stack**: React, Node.js, MongoDB
+- **Link**: [GitHub Repo or Live Demo](https://github.com/agudu50/your-repo-1)
+
+#### 🌟 Project 2: [Your Project Name]
+- **Description**: A brief overview of another project, showcasing your skills in AI, blockchain, or full-stack development.
+- **Tech Stack**: Python, Django, Tailwind CSS
+- **Link**: [GitHub Repo or Live Demo](https://github.com/agudu50/your-repo-2)
+
+---
+
+### 📈 Skills Progress
+<p align="center">
+  <b>Frontend Development</b> <br> 
+  <img src="https://progress-bar.dev/90/?title=React&width=200" alt="React Progress" /> <br>
+  <b>Backend Development</b> <br> 
+  <img src="https://progress-bar.dev/80/?title=Node.js&width=200" alt="Node.js Progress" /> <br>
+  <b>Machine Learning</b> <br> 
+  <img src="https://progress-bar.dev/70/?title=Python&width=200" alt="Python Progress" /> <br>
+  <b>Graphic Design</b> <br> 
+  <img src="https://progress-bar.dev/85/?title=Figma&width=200" alt="Figma Progress" />
+</p>
+
+---
+
+### 🌍 Open Source Contributions
+- Contributed to **[Repo Name]** by adding features/fixing bugs. [Link to PR or Issue]
+- Active participant in open-source communities, passionate about collaborative coding! 🚀
+<p align="center">Interested in contributing together? Reach out! 🤝</p>
 
 ---
 
@@ -114,6 +149,7 @@
 <p align="center"> 
 <a href="https://agudu-portfolio-website.vercel.app/contact"><img src="https://img.shields.io/badge/Contact%20Form-Get%20in%20Touch-green?style=flat-square&logo=mailgun" alt="Contact Form"></a> 
 </p>
+<p align="center">💼 Open to freelance, full-time, or collaborative opportunities. Let’s create something amazing together! 🚀</p>
 
 ---
 
@@ -122,5 +158,5 @@
 
 <!-- Snake Animation --> 
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> 
 </div>
