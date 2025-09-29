@@ -91,10 +91,11 @@
 
 
 ---
+### 🎖 Achievements & Certificates 🏆  
 
-### 🎖 Achievements & Certificates 🏆 
-<p>**TEENS IN AI #IWD GLOBAL TECHATHON** (2025) 📜 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://learn.teensinai.com/certificates/yudjsimbhg) </p>
-🏅 **Introduction to AI - Online Course** (2025) 📜 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://simpli-web.app.link/e/pecAOw4W3Rb)
+- 🥇 **TEENS IN AI #IWD GLOBAL TECHATHON** (2025) 📜 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://learn.teensinai.com/certificates/yudjsimbhg)  
+
+- 🏅 **Introduction to AI - Online Course** (2025) 📜 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://simpli-web.app.link/e/pecAOw4W3Rb)  
 
 ---
 
