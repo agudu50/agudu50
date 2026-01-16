@@ -1,10 +1,4 @@
-
-
-
-
-
-
-	<a href="https://komarev.com/ghpvc/?username=DevTony"> <img align="right" src="https://komarev.com/ghpvc/?username=DevTony&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /> </a> 
+<a href="https://komarev.com/ghpvc/?username=DevTony"> <img align="right" src="https://komarev.com/ghpvc/?username=DevTony&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" /> </a> 
 <p align="center"> <img src="https://octodex.github.com/images/filmtocat.png" alt="Avatar" width="250"/> </p> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=22&duration=2000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hey+There+%F0%9F%91%8B,+I'm+Anthony+Gudu!;Passionate+Full+Stack+Developer+%F0%9F%92%BB;ML+Enthusiast+%F0%9F%A7%91%F0%9F%92%BB;Building+Scalable+and+Efficient+Applications+%E2%9C%A8;Loves+Problem+Solving+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%92%A1" style="width: 100%;"> 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%"> 
