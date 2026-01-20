@@ -95,6 +95,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DevTony&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&row=1&column=6&margin-w=15" />
+</p>
+
 ---
 ### 🎖 Achievements & Certificates 🏆  
 
