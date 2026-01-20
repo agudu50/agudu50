@@ -89,7 +89,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevTony&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 ### 🎖 Achievements & Certificates 🏆  
