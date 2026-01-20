@@ -86,8 +86,8 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
- <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical" />
-
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=agudu50" />
 </p>
 
 
