@@ -85,10 +85,14 @@
 
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-[<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=discord&no-frame=true" />](https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true
-)
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&row=1&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 
 ---
