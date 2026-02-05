@@ -87,7 +87,7 @@
 ### 🏆 GitHub Trophies
 <p align="center">
 ### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=agudu50" />
+<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=discord&no-frame=true" />
 </p>
 
 
