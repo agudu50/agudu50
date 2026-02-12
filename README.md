@@ -111,14 +111,19 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/followers/agudu50?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/agudu50?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/repos/agudu50?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/issues/agudu50?style=for-the-badge&logo=github" />
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/agudu50?label=Followers&style=for-the-badge&logo=github" />
+
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/agudu50&color=blue" />
+
+  <!-- Account Created -->
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Account%20Created&query=created_at&url=https://api.github.com/users/agudu50&color=purple" />
 
 </p>
 
 ---
+
 
 ## 🎓 Developer Rank System
 
