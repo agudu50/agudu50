@@ -83,10 +83,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=15&column=6" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&include_all_commits=true" height="180"/>
+
+  <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
+
 </p>
 
 ---
