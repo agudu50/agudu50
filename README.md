@@ -65,117 +65,73 @@
 
 ---
 
-## 📊 GitHub Performance & Achievements
+## 📊 GitHub Performance Dashboard
 
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
 
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical" height="180"/>
 
 </p>
 
 <p align="center">
 
-  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievement Arena
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=15&column=6" />
 </p>
 
 ---
 
-# 🎖 Developer Grade & Global Rank
+## 🎖 Developer Insights & Grade
 
 <p align="center">
-
-  <!-- Overall GitHub Stats with Rank -->
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true" height="180"/>
-
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
-
-</p>
-
----
-
-# 🧠 Contribution Intelligence
-
-<p align="center">
-
-  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
-
 </p>
 
 <p align="center">
 
-  <!-- Most Used Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agudu50&theme=radical" height="180"/>
-
-  <!-- Repositories Per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" height="180"/>
 
-</p>
-
-<p align="center">
-
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agudu50&theme=radical&utcOffset=0" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agudu50&theme=radical" height="180"/>
 
 </p>
 
 ---
 
-# 🏅 Achievement Badges
+## 🏅 Live Achievement Badges
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/followers/agudu50?style=for-the-badge&logo=github&color=ff69b4" />
-  <img src="https://img.shields.io/github/stars/agudu50?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/commit-activity/m/agudu50/agudu50?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/agudu50/agudu50?style=for-the-badge&color=green" />
+  <img src="https://img.shields.io/github/followers/agudu50?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/agudu50?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repos/agudu50?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/issues/agudu50?style=for-the-badge&logo=github" />
 
 </p>
 
 ---
 
-# 🎓 Skill Power Level
+## 🎓 Developer Rank System
 
 <p align="center">
 
-  <img src="https://progress-bar.dev/80/?title=Frontend%20Engineering&width=300&color=ff69b4"/>
-  <br>
-  <img src="https://progress-bar.dev/75/?title=Backend%20Development&width=300&color=blue"/>
-  <br>
-  <img src="https://progress-bar.dev/70/?title=AI%20%26%20Machine%20Learning&width=300&color=purple"/>
-  <br>
-  <img src="https://progress-bar.dev/65/?title=Blockchain&width=300&color=orange"/>
+  <img src="https://img.shields.io/badge/Rank-A%2B%20Developer-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Full%20Stack%20Engineer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Blockchain-ff69b4?style=for-the-badge" />
 
 </p>
 
 ---
 
-# 🏆 Rank Classification System
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Current%20Rank-A%2B%20Developer-ff0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Global%20Percentile-Top%2025%25-blueviolet?style=for-the-badge" />
-
-</p>
-
-
----
 ### 🎖 Achievements & Certificates 🏆  
 
 - 🥇 **TEENS IN AI #IWD GLOBAL TECHATHON** (2025) 📜 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat-square)](https://learn.teensinai.com/certificates/yudjsimbhg)  
