@@ -65,33 +65,55 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 📊 GitHub Performance & Achievements
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" height="180"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical" height="180"/>
+
 </p>
 
 <p align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=github-dark&hide_border=true&area=true" width="95%"/>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
+
 </p>
 
-<p align="center">
 ---
 
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&row=1&column=6"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
 </p>
+
+---
+
+## 🎓 Developer Grade & Rank
+
+<p align="center">
+
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
+
+</p>
+
+<p align="center">
+
+  <!-- Productivity Grade -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agudu50&theme=radical&utcOffset=0" height="180"/>
+
+  <!-- Repos per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" height="180"/>
+
+</p>
+
+
 
 
 
