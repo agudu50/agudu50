@@ -86,35 +86,93 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Achievement Arena
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
 </p>
 
 ---
 
-## 🎓 Developer Grade & Rank
+# 🎖 Developer Grade & Global Rank
 
 <p align="center">
 
-  <!-- Profile Summary Card -->
+  <!-- Overall GitHub Stats with Rank -->
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true" height="180"/>
+
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 🧠 Contribution Intelligence
+
+<p align="center">
+
+  <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
 
 </p>
 
 <p align="center">
 
-  <!-- Productivity Grade -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agudu50&theme=radical&utcOffset=0" height="180"/>
+  <!-- Most Used Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agudu50&theme=radical" height="180"/>
 
-  <!-- Repos per Language -->
+  <!-- Repositories Per Language -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=radical" height="180"/>
 
 </p>
 
+<p align="center">
 
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agudu50&theme=radical&utcOffset=0" height="180"/>
 
+</p>
+
+---
+
+# 🏅 Achievement Badges
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/followers/agudu50?style=for-the-badge&logo=github&color=ff69b4" />
+  <img src="https://img.shields.io/github/stars/agudu50?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/commit-activity/m/agudu50/agudu50?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/last-commit/agudu50/agudu50?style=for-the-badge&color=green" />
+
+</p>
+
+---
+
+# 🎓 Skill Power Level
+
+<p align="center">
+
+  <img src="https://progress-bar.dev/80/?title=Frontend%20Engineering&width=300&color=ff69b4"/>
+  <br>
+  <img src="https://progress-bar.dev/75/?title=Backend%20Development&width=300&color=blue"/>
+  <br>
+  <img src="https://progress-bar.dev/70/?title=AI%20%26%20Machine%20Learning&width=300&color=purple"/>
+  <br>
+  <img src="https://progress-bar.dev/65/?title=Blockchain&width=300&color=orange"/>
+
+</p>
+
+---
+
+# 🏆 Rank Classification System
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Current%20Rank-A%2B%20Developer-ff0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Global%20Percentile-Top%2025%25-blueviolet?style=for-the-badge" />
+
+</p>
 
 
 ---
