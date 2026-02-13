@@ -65,13 +65,15 @@
 
 ---
 
+---
+
 ## 📊 GitHub Performance Dashboard
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&cache_seconds=1800" height="180"/>
 
 </p>
 
@@ -83,28 +85,12 @@
 
 ---
 
-## 🏆 Achievement Highlights
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&include_all_commits=true" height="180"/>
-
-  <img src="https://streak-stats.demolab.com?user=agudu50&theme=radical&hide_border=true" height="180"/>
-
-</p>
+## 🏆 Achievement Summary
 
 <p align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
 
-</p>
-
----
-
-## 🎖 Developer Insights & Grade
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agudu50&theme=radical" />
 </p>
 
 <p align="center">
@@ -121,19 +107,15 @@
 
 <p align="center">
 
-  <!-- Followers -->
   <img src="https://img.shields.io/github/followers/agudu50?label=Followers&style=for-the-badge&logo=github" />
 
-  <!-- Public Repositories -->
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/agudu50&color=blue" />
 
-  <!-- Account Created -->
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Account%20Created&query=created_at&url=https://api.github.com/users/agudu50&color=purple" />
 
 </p>
 
 ---
-
 
 ## 🎓 Developer Rank System
 
@@ -146,6 +128,7 @@
 </p>
 
 ---
+
 
 ### 🎖 Achievements & Certificates 🏆  
 
