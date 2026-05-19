@@ -104,27 +104,45 @@
 
 ---
 
-# 📊 GitHub Live Dashboard 
-<p align="center"> <!-- Main Stats Card (real-time cached refresh) --> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" /> 
-  <!-- Streak Stats (updated daily / near real-time) --> 
-  <img height="190em" src="https://streak-stats.demolab.com?user=agudu50&theme=tokyonight&hide_border=true&cache_seconds=60" /> </p> <p align="center"> <!-- Language usage --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=60" /> </p> --- ## ⚡ Activity Heatmap (Live Feeling) <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=tokyo-night&hide_border=true&area=true&radius=10" /> </p>
-
-# 🏆 GitHub Trophies
+# 📊 GitHub Live Developer Dashboard
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=algolia&no-frame=true&row=2&column=4"/>
+
+  <!-- MAIN STATS -->
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+  <!-- STREAK -->
+  <img height="180em"
+    src="https://streak-stats.demolab.com?user=agudu50&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-# ⚡ Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=tokyo-night&hide_border=true"/>
+
+  <!-- TOP LANGUAGES -->
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </p>
 
 ---
+
+## 🏆 Achievements Overview
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+## ⚡ Contribution Activity Flow
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=tokyo-night&hide_border=true&area=true&radius=12"/>
+</p>
 
 
 # 🎖️ Certifications & Achievements
