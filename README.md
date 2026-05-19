@@ -123,8 +123,7 @@
 
   <!-- TOP LANGUAGES (ONLY ONCE) -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
