@@ -53,7 +53,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/anthony-gudu-749234351">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="https://www.instagram.com/a.gudu_/">
