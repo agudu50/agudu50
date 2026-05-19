@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">
-💻 Frontend Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web Developer
+💻 Frontend Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
 </h3>
 
 ---
@@ -24,13 +24,23 @@
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🌱 Currently learning **MERN Stack, AI/ML, Python & Java**
+- 🌱 Currently learning **MERN Stack, AI/ML, Blockchain, Python & Java**
 - 👯 Open to collaborating on **innovative world-class projects**
 - 🚀 Passionate about **Frontend Engineering & Modern UI/UX**
 - 💡 Exploring **AI, Blockchain & Scalable Web Apps**
 - 📫 Reach me at **anthonygudu2020@gmail.com**
 - 🌍 Portfolio: **https://agudu-portfolio-website.vercel.app**
 - ⚡ Fun fact: *Creative, social & always curious about tech*
+
+# 🧠 Current Interests
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🔗 Blockchain & Web3
+- 🎨 UI/UX & Graphic Design
+- 🌐 Full Stack Web Development
+- ☁️ Cloud & Modern Web Technologies
+
+---
 
 ---
 
@@ -102,15 +112,6 @@
 
 ---
 
-# 🧠 Current Interests
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔗 Blockchain & Web3
-- 🎨 UI/UX & Graphic Design
-- 🌐 Full Stack Web Development
-- ☁️ Cloud & Modern Web Technologies
-
----
 
 # 🎖️ Certifications & Achievements
 
