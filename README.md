@@ -108,11 +108,22 @@
 
 <div align="center">
 
+  <!-- HERO ROW -->
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
   <img height="180em"
     src="https://streak-stats.demolab.com?user=agudu50&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- SECOND ROW (CENTERED CARD WITH BALANCE FEEL) -->
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
