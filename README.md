@@ -194,5 +194,5 @@
 ---
 
 <h3 align="center">
-✨ “Code. Create. Innovate. Repeat.” ✨
+✨ “Innovate. Code. Inspire.” ✨
 </h3>
