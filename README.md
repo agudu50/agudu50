@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hey+👋,+I'm+Anthony+Gudu;Software+Engineer+💻;AI+%7C+ML+%7C+Blockchain+Enthusiast+🤖;Building+Modern+and+Scalable+Apps+🚀;Always+Learning+New+Things+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Hey+👋+I'm+Anthony+Gudu;Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;I+Design+%26+Build+Scalable+Systems+🚀;Turning+Ideas+Into+Real+Products+✨" />
 </h1>
 
 <p align="center">
