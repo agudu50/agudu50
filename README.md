@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="center">
-💻 Frontend Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
+💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
 </h3>
 
 ---
