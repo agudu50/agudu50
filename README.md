@@ -106,17 +106,15 @@
 
 # 📊 GitHub Live Developer Dashboard
 
-<p align="center">
+<div align="center">
 
-  <!-- MAIN STATS -->
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-  <!-- STREAK -->
   <img height="180em"
     src="https://streak-stats.demolab.com?user=agudu50&theme=tokyonight&hide_border=true" />
 
-</p>
+</div>
 
 ---
 
