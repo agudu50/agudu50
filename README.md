@@ -80,8 +80,26 @@
 
 ### 💻 Languages & Frameworks
 
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,python,java,php,cs,git,github,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&perline=6"/>
+</p>
+
+## ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,dotnet&perline=6"/>
+</p>
+
+## 🗄️ Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,postgresql&perline=6"/>
+</p>
+
+## ☁️ Tools & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=6"/>
 </p>
 
 ---
