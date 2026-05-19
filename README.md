@@ -49,23 +49,27 @@
 <p align="center">
 
 <a href="https://wa.me/+233558524473">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/anthony-gudu-749234351">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50"/>
 </a>
 
 <a href="https://www.instagram.com/a.gudu_/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50"/>
 </a>
 
 <a href="https://www.snapchat.com/add/gudujnr008">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733614.png" width="50"/>
+  <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="50"/>
+</a>
+
+<a href="https://x.com/yourusername">
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="50"/>
 </a>
 
 <a href="https://github.com/agudu50">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="50"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="50"/>
 </a>
 
 </p>
