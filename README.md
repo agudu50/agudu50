@@ -2,9 +2,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor"/>
 </a>
 
-<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
-<p align="center"> <a href="https://agudu-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio"> </a> </p> 
-<p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> </p> 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Hey+👋+I'm+Anthony+Gudu;Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;I+Design+%26+Build+Scalable+Systems+🚀;Turning+Ideas+Into+Real+Products+✨" />
@@ -25,6 +22,11 @@
 ---
 
 # 🚀 About Me
+
+<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
+<p align="center"> <a href="https://agudu-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio"> </a> </p> 
+<p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> </p> 
+
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
