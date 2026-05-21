@@ -37,6 +37,8 @@
 - 🌍 Portfolio: **https://agudu-portfolio-website.vercel.app**
 - ⚡ Fun fact: *Creative, social & always curious about tech*
 
+
+---
 # 🧠 Current Interests
 
 - 🤖 Artificial Intelligence & Machine Learning
