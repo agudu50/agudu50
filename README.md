@@ -20,11 +20,12 @@
 <h3 align="center">
 💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
 </h3>
+<p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> </p> 
+<p align="center"> <a href="https://agudu-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio"> </a> </p> 
 
 ---
 
 # 🚀 About Me
-
 
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -36,12 +37,6 @@
 - 📫 Reach me at **anthonygudu2020@gmail.com**
 - 🌍 Portfolio: **https://agudu-portfolio-website.vercel.app**
 - ⚡ Fun fact: *Creative, social & always curious about tech*
-
-
----
-
-<p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> </p> 
-<p align="center"> <a href="https://agudu-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio"> </a> </p> 
 
 
 ---
