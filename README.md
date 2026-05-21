@@ -31,7 +31,7 @@
 
 - 🌱 Currently learning **MERN Stack, AI/ML, Blockchain, Python & Java**
 - 👯 Open to collaborating on **innovative world-class projects**
-- 🚀 Passionate about **Frontend Engineering & Modern UI/UX**
+- 🚀 Passionate about **Full Stack Web Development, Cloud & Modern Web Technologies, & Modern UI/UX**
 - 💡 Exploring **AI, Blockchain & Scalable Web Apps**
 - 📫 Reach me at **anthonygudu2020@gmail.com**
 - 🌍 Portfolio: **https://agudu-portfolio-website.vercel.app**
@@ -39,13 +39,6 @@
 
 
 ---
-# 🧠 Current Interests
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔗 Blockchain & Web3
-- 🎨 UI/UX & Graphic Design
-- 🌐 Full Stack Web Development
-- ☁️ Cloud & Modern Web Technologies
 
 <p align="center"> <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> </p> 
 <p align="center"> <a href="https://agudu-portfolio-website.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-blue?style=flat&logo=appveyor" alt="Portfolio"> </a> </p> 
