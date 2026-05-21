@@ -15,6 +15,8 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
 </p>
 
+<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
+
 <h3 align="center">
 💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
 </h3>
@@ -23,7 +25,6 @@
 
 # 🚀 About Me
 
-<p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
 
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
