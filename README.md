@@ -40,9 +40,10 @@
 - 🌐 Full Stack Web Development
 - ☁️ Cloud & Modern Web Technologies
 
----
+  <a href="https://github.com/agudu50"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="50" width="100"/></a> 
 
 ---
+
 
 # 🌐 Connect With Me
 
