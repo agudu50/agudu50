@@ -5,15 +5,17 @@
 
 <div align="center">
 
-<h1 style="font-size: 40px; margin-bottom: 0; color: #E5E7EB;">
+<div align="center">
+
+<h1 style="font-size: 42px; margin-bottom: 5px; color: #E5E7EB;">
   Anthony Gudu
 </h1>
 
-<p style="font-size: 18px; color: #A1A1AA; margin-top: 8px;">
-  Co-Founder of <b style="color:#8B5CF6;">Zoharix</b> 🚀
+<p style="font-size: 16px; color: #A1A1AA; margin-top: 0;">
+  || Co-Founder of <b style="color:#8B5CF6;">Zoharix</b> 🚀 || Full-Stack Developer
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%7C+ML+%7C+Blockchain+Explorer;Building+Scalable+Systems;Turning+Ideas+Into+Real+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%7C+ML+%7C+Blockchain+Explorer;Building+Scalable+Systems+for+the+Future;Crafting+Clean+and+Efficient+Web+Experiences;Turning+Ideas+Into+Production-Ready+Products" />
 
 </div>
 <p align="center">
