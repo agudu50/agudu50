@@ -106,7 +106,7 @@
 
 ## ☁️ Tools & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,canva,linux&perline=6"/>
 </p>
 
 ---
