@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  Co-Founder of :contentReference[oaicite:0]{index=0} 🚀
+  Co-Founder of Zoharix 🚀
 </h3>
 
 <h1 align="center">
