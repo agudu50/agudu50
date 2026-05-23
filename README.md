@@ -96,7 +96,7 @@
 
 ## ⚙️ Backend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,dotnet&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,python,java,dotnet&perline=6"/>
 </p>
 
 ## 🗄️ Database
@@ -106,7 +106,7 @@
 
 ## ☁️ Tools & DevOps
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity,postman,docker,figma,linux&perline=6"/>
 </p>
 
 ---
