@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<div align="center">
-
 <h1 style="font-size: 42px; margin-bottom: 5px; color: #E5E7EB;">
   Anthony Gudu
 </h1>
