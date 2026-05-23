@@ -3,18 +3,15 @@
 </a>
 
 
-<h1 align="center">
-  Anthony Gudu
-</h1>
+<div align="center">
 
-<h3 align="center">
-  Co-Founder of Zoharix 🚀
-</h3>
+# Anthony Gudu
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;I+Design+%26+Build+Scalable+Systems+⚙️;Turning+Ideas+Into+Real+Products+✨" />
-</h1>
+### Co-Founder of Zoharix 🚀
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;Building+Scalable+Systems+⚙️;Turning+Ideas+Into+Real+Products+✨" />
+
+</div>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
 </p>
