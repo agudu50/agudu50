@@ -5,11 +5,15 @@
 
 <div align="center">
 
-# Anthony Gudu
+<h1 style="font-size: 40px; margin-bottom: 0; color: #E5E7EB;">
+  Anthony Gudu
+</h1>
 
-### Co-Founder of Zoharix 🚀
+<p style="font-size: 18px; color: #A1A1AA; margin-top: 8px;">
+  Co-Founder of <b style="color:#8B5CF6;">Zoharix</b> 🚀
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;Building+Scalable+Systems+⚙️;Turning+Ideas+Into+Real+Products+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%7C+ML+%7C+Blockchain+Explorer;Building+Scalable+Systems;Turning+Ideas+Into+Real+Products" />
 
 </div>
 <p align="center">
