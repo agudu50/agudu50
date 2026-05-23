@@ -4,7 +4,15 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Hey+👋+I'm+Anthony+Gudu;Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;I+Design+%26+Build+Scalable+Systems+🚀;Turning+Ideas+Into+Real+Products+✨" />
+  Anthony Gudu
+</h1>
+
+<h3 align="center">
+  Co-Founder of :contentReference[oaicite:0]{index=0} 🚀
+</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=800&color=A855F7&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+💻;AI+%7C+ML+%7C+Blockchain+Explorer+🤖;I+Design+%26+Build+Scalable+Systems+⚙️;Turning+Ideas+Into+Real+Products+✨" />
 </h1>
 
 <p align="center">
