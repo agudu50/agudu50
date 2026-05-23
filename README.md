@@ -5,12 +5,12 @@
 
 <div align="center">
 
-<h1 style="font-size: 42px; margin-bottom: 6px; color: #E5E7EB;">
+<h1>
   Anthony Gudu
 </h1>
 
-<p style="font-size: 16px; color: #A1A1AA; margin-top: 0;">
-  Co-Founder of <b style="color:#8B5CF6;">Zoharix</b> 🚀 | Full-Stack Engineer | AI & Blockchain Builder
+<p>
+  Co-Founder of <span style="color:#8B5CF6;"><b>Zoharix</b></span> 🚀 | Full-Stack Engineer | AI & Blockchain Builder
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Tech;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
