@@ -20,7 +20,7 @@
   
 
 
-  <br><br>
+
 
 
 
@@ -55,9 +55,6 @@
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
-<br>
-
 <!-- ABOUT & CONNECT DUAL CARD SYSTEM -->
 <table width="100%">
   <tr>
