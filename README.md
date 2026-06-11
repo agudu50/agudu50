@@ -1,34 +1,24 @@
-<a href="https://komarev.com/ghpvc/?username=agudu50">
-  <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=8B5CF6&style=for-the-badge" alt="Profile visitor"/>
-</a>
+<table>
+<tr>
+<td width="55%">
 
-<div align="center">
+# Anthony Gudu
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Anthony+Gudu" />
+### Co-Founder of Zoharix 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Co-Founder+of+Zoharix+🚀;Full-Stack+Engineer;AI+%26+Blockchain+Builder" />
+- Full-Stack Engineer
+- AI & Blockchain Builder
+- Building products that matter
 
-<br>
+</td>
 
-<img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-Engineer-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20Blockchain-Builder-8B5CF6?style=for-the-badge" />
+<td width="45%">
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216656969-9e9768db-f42d-4c00-9f44-3f1f5f5f85d3.gif" width="100%"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="550"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Systems;Creating+Scalable+Web+Applications;Exploring+Blockchain+Technologies;Turning+Ideas+Into+Real-World+Products" />
-
-<br>
-
-<h3>
-⚡ Building the Future with Code, AI & Decentralized Technologies ⚡
-</h3>
-
-</div>
+</td>
+</tr>
+</table>
 
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
 
