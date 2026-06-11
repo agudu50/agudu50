@@ -5,10 +5,11 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:8B5CF6,100:EC4899&text=Anthony%20Gudu&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Anthony+Gudu;Full-Stack+Engineer;AI+%26+Blockchain+Builder;Co-Founder+of+Zoharix+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Co-Founder+of+Zoharix+🚀;Full-Stack+Engineer;AI+%26+Blockchain+Builder;Building+Products+That+Matter" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/Full--Stack-Engineer-3B82F6?style=for-the-badge" />
@@ -16,14 +17,17 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Technologies;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
+
+<br>
+
 <h3>
-  ⚡ Building the Future with Code, AI & Decentralized Technologies ⚡
+⚡ Building the Future with Code, AI & Decentralized Technologies ⚡
 </h3>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:8B5CF6,100:EC4899" />
+
 </div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Tech;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
-
 </div>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
