@@ -2,44 +2,40 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=8B5CF6&style=for-the-badge" />
 </a>
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+<div align="center">
 
-<h1>👋 Anthony Gudu</h1>
-
-<h3>Co-Founder of Zoharix 🚀</h3>
-
-<p>
-Full-Stack Engineer passionate about building scalable products,
-AI-powered solutions, and blockchain applications.
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=8B5CF6&width=500&lines=Full-Stack+Engineer;AI+Builder;Blockchain+Developer;Open+Source+Enthusiast" />
+<!-- HERO ANIMATION (floating 3D developer vibe) -->
+<img width="420" src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Builder-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web3-Developer-8B5CF6?style=for-the-badge" />
+<!-- NAME -->
+<h1>Anthony Gudu</h1>
+
+<p>
+<b>Co-Founder of Zoharix 🚀</b><br>
+Full-Stack Engineer • AI Builder • Blockchain Developer
+</p>
+
+---
+
+<!-- ANIMATED TYPING (clean, single focus) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems;Designing+scalable+web+apps;Exploring+Web3+and+blockchain;Turning+ideas+into+real+products" />
+
+<br>
+
+<!-- BADGES (clean row, not stacked chaos) -->
+<img src="https://img.shields.io/badge/AI%20Builder-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3%20Developer-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Founder-Zoharix-8B5CF6?style=for-the-badge" />
 
-</td>
+<br><br>
 
-<td width="45%" align="center">
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-eabb4df0-6f1c-4f38-b9d1-6c4f2a4b4f16.gif"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" width="100%" />
+<!-- SUB ANIMATION (adds motion depth like 3D layer) -->
+<img width="600" src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" />
 
 </div>
 
-</table>
 
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
 
