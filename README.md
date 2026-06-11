@@ -106,6 +106,36 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
 <br>
 
+<!-- FEATURED PROJECTS SECTION -->
+## 🏗️ Flagship Projects Showcase
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ MarketLink</h3>
+      <p>A voice-powered financial intelligence dashboard tailored explicitly for market traders. Built to democratize real-time analytical lookups with low latency.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 NodeDSM</h3>
+      <p>A high-performance Distributed Shared Memory system utilizing a robust centralized manager architecture designed to control concurrent state orchestration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Distributed_Systems-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/Architecture-Strategic-blue?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
+<br>
+
 <!-- GITHUB DEVELOPER DASHBOARD -->
 ## 📊 Live Developer Engine
 
