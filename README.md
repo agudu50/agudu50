@@ -1,23 +1,26 @@
 <a href="https://komarev.com/ghpvc/?username=agudu50">
-  <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitor"/>
+  <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=8B5CF6&style=for-the-badge" alt="Profile visitor"/>
 </a>
-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:8B5CF6,100:EC4899&text=Anthony%20Gudu&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Anthony+Gudu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Co-Founder+of+Zoharix+🚀;Full-Stack+Engineer;AI+%26+Blockchain+Builder;Building+Products+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Co-Founder+of+Zoharix+🚀;Full-Stack+Engineer;AI+%26+Blockchain+Builder" />
 
 <br>
 
 <img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-Engineer-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20%26%20Blockchain-Builder-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack-Engineer-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Blockchain-Builder-8B5CF6?style=for-the-badge" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Technologies;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="550"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Building+AI-Powered+Systems;Creating+Scalable+Web+Applications;Exploring+Blockchain+Technologies;Turning+Ideas+Into+Real-World+Products" />
 
 <br>
 
@@ -25,17 +28,7 @@
 ⚡ Building the Future with Code, AI & Decentralized Technologies ⚡
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:8B5CF6,100:EC4899" />
-
 </div>
-</div>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
-</p>
 
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
 
