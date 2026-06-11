@@ -4,18 +4,50 @@
 
 <div align="center">
 
-<!-- HERO ANIMATION (floating 3D developer vibe) -->
-<img width="420" src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
+<!-- TOP DECOR LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="60%"/>
 
 <br><br>
 
-<!-- NAME -->
-<h1>Anthony Gudu</h1>
+<!-- HERO ANIMATION INSIDE A "CARD FEEL" -->
+<img width="420" style="border-radius:20px;" 
+src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
 
+<br><br>
+
+<!-- NAME (structured like a title system) -->
+<h1 style="letter-spacing:1px;">Anthony Gudu</h1>
+
+<!-- ROLE BADGE LINE -->
 <p>
-<b>Co-Founder of Zoharix 🚀</b><br>
-Full-Stack Engineer • AI Builder • Blockchain Developer
+<img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
+
+<!-- DESCRIPTION -->
+<p style="max-width:600px; line-height:1.6;">
+Full-Stack Engineer focused on building scalable systems, AI-powered applications,  
+and decentralized blockchain solutions that solve real-world problems.
+</p>
+
+<br>
+
+<!-- TYPE ANIMATION (clean section header style) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Blockchain+Builder;System+Architect;Product+Thinker" />
+
+<br><br>
+
+<!-- FEATURE STRIP (like UI chips, not messy badges) -->
+<img src="https://img.shields.io/badge/AI%20Systems-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Web%20Apps-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Web3%20Tech-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Product%20Builder-8B5CF6?style=flat-square" />
+
+<br><br>
+
+<!-- BOTTOM DECOR LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="60%"/>
+
+</div>
 
 ---
 
