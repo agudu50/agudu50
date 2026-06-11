@@ -11,8 +11,8 @@
   
   <br>
 
-  <!-- HERO ANIMATION CARD -->
-  <img width="450" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(139, 92, 246, 0.2);" src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
+  <!-- 3D CODING ANIMATION HERO CARD -->
+  <img width="500" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(139, 92, 246, 0.3);" src="https://cdn.dribbble.com/users/2208154/screenshots/6548773/web_developer.gif" />
 
   <br><br>
 
@@ -76,10 +76,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
 <br>
 
-<!-- ECOSYSTEM / TECH STACK PANEL -->
+<!-- ECOSYSTEM / TECH STACK PANEL WITH SUB-3D CODING BLOCKS -->
 ## 🛠️ Ecosystem & Tech Stack
 
 <div align="center">
+  <!-- SECONDARY 3D FLOATING CODE INSIGHT GRAPHIC -->
+  <img width="380" src="https://cdn.dribbble.com/users/1201194/screenshots/7130524/media/3b6241b212f455bf09549f99e432c69c.gif" style="margin-bottom: 20px; border-radius: 12px;" />
+
   <table width="100%">
     <tr>
       <td width="25%" valign="top">
