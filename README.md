@@ -34,6 +34,23 @@
   <h3 style="margin-top: 20px;">
     💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
   </h3>
+
+
+  </div>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"/>
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
+
+</p>
   
   <br>
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180" style="border-radius: 8px; opacity: 0.9;"/>
