@@ -1,71 +1,94 @@
-<a href="https://komarev.com/ghpvc/?username=agudu50">
-  <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=8B5CF6&style=for-the-badge" />
-</a>
+<!-- VISITOR COUNTER -->
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=agudu50">
+    <img src="https://komarev.com/ghpvc/?username=agudu50&label=Profile+Views&color=8B5CF6&style=for-the-badge&logo=github" alt="agudu50 views" />
+  </a>
+</p>
 
+<!-- HERO HEADER SECTION -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=220&section=header&text=Anthony%20Gudu&subtitle=Co-Founder%20@%20Zoharix&fontSize=36&subFontSize=18&fontAlignY=40&animation=twinkling" width="100%"/>
+  
+  <br>
 
-<!-- TOP DECOR LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="60%"/>
+  <!-- HERO ANIMATION CARD -->
+  <img width="450" style="border-radius: 16px; box-shadow: 0 8px 24px rgba(139, 92, 246, 0.2);" src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
 
-<br><br>
+  <br><br>
 
-<!-- HERO ANIMATION INSIDE A "CARD FEEL" -->
-<img width="420" style="border-radius:20px;" 
-src="https://user-images.githubusercontent.com/74038190/216656965-8b7e9f02-6e7f-4df1-ae31-1f4b7cf5c0f4.gif" />
+  <!-- INTERACTIVE TYPING EFFECT -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems...;Designing+scalable+web+apps...;Exploring+Web3+%26+Blockchain...;Turning+ideas+into+real+products." />
 
-<br><br>
+  <br>
 
-<!-- NAME (structured like a title system) -->
-<h1 style="letter-spacing:1px;">Anthony Gudu</h1>
+  <!-- CORE PHILOSOPHY -->
+  <p align="center" style="max-width: 650px; font-size: 16px; line-height: 1.6; color: #8b949e;">
+    Full-Stack Engineer focused on building scalable enterprise architectures, intelligence-driven applications, and decentralized blockchain ecosystems that solve immediate, real-world problems.
+  </p>
 
-<!-- ROLE BADGE LINE -->
-<p>
-<img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
-<!-- DESCRIPTION -->
-<p style="max-width:600px; line-height:1.6;">
-Full-Stack Engineer focused on building scalable systems, AI-powered applications,  
-and decentralized blockchain solutions that solve real-world problems.
-</p>
-
-<br>
-
-<!-- TYPE ANIMATION (clean section header style) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Blockchain+Builder;System+Architect;Product+Thinker" />
-
-<br><br>
-
-<!-- FEATURE STRIP (like UI chips, not messy badges) -->
-<img src="https://img.shields.io/badge/AI%20Systems-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Web%20Apps-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Web3%20Tech-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/Product%20Builder-8B5CF6?style=flat-square" />
-
-<br><br>
-
-<!-- BOTTOM DECOR LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="60%"/>
+  <!-- METADATA CHIPS -->
+  <img src="https://img.shields.io/badge/AI%20Systems-8B5CF6?style=flat-square&logo=openai&logoColor=white" /> Matrix
+  <img src="https://img.shields.io/badge/Web%20Apps-8B5CF6?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3%20Tech-8B5CF6?style=flat-square&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Product%20Builder-8B5CF6?style=flat-square&logo=rocket&logoColor=white" />
 
 </div>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
+<br>
 
-<!-- ANIMATED TYPING (clean, single focus) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-powered+systems;Designing+scalable+web+apps;Exploring+Web3+and+blockchain;Turning+ideas+into+real+products" />
+<!-- DASHBOARD GRID: TECH STACK & METRICS -->
+## 🛠️ Ecosystem & Tech Stack
+
+<table width="100%">
+  <tr>
+    <!-- LEFT COLUMN: TECH ICONS -->
+    <td width="50%" valign="top">
+      <h3>🚀 Core Technologies</h3>
+      <p><b>Languages:</b></p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <br><br>
+      <p><b>Frameworks & AI:</b></p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+      <br><br>
+      <p><b>Web3 & Cloud:</b></p>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+    <!-- RIGHT COLUMN: DYNAMIC GITHUB STATS -->
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Analytics</h3>
+      <a href="https://github.com/agudu50">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=a3a3a3&border_color=8B5CF6&hide_border=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- BADGES (clean row, not stacked chaos) -->
-<img src="https://img.shields.io/badge/AI%20Builder-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Web3%20Developer-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Founder-Zoharix-8B5CF6?style=for-the-badge" />
+<!-- RECENT ACTIVITY / CONTRIBUTION GRAPH -->
+## 📈 Dynamic Activity Streak
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/agudu50">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=transparent&streak_start=8B5CF6&background=0d1117&fire=8B5CF6&ring=8B5CF6&sideNums=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3" alt="GitHub Streak" />
+  </a>
+</p>
 
-<!-- SUB ANIMATION (adds motion depth like 3D layer) -->
-<img width="600" src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" />
+<br>
 
+<!-- FOOTER ANIMATION -->
+<div align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" style="opacity: 0.8; border-radius: 8px;" />
+  <br><br>
+  <sub>⚡ Powered by continuous learning and automated coffee-to-code pipelines. ⚡</sub>
 </div>
 
 
