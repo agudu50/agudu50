@@ -32,6 +32,15 @@
 
   <br>
 
+
+  <!-- TYPE ANIMATION (clean section header style) -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Blockchain+Builder;System+Architect;Product+Thinker" />
+
+
+
+<br><br>
+
   <!-- METADATA CHIPS -->
   <img src="https://img.shields.io/badge/AI%20Systems-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Apps-8B5CF6?style=flat-square&logo=react&logoColor=white" />
