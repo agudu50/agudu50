@@ -16,13 +16,7 @@
   <!-- INTERACTIVE TYPING EFFECT -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Tech;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
 
-  <br>
-  
-
-
-
-
-
+  <br><br>
 
   <p style="max-width: 750px; font-size: 15px; line-height: 1.7; color: #8b949e;">
     🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡
@@ -32,29 +26,21 @@
     💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
   </h3>
 
-
-  </div>
-
-
-
-
-<p align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450"/>
-
-</p>
-  
   <br>
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="180" style="border-radius: 8px; opacity: 0.9;"/>
+
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450" style="border-radius: 12px;"/>
+
   <br><br>
   
   <a href="https://agudu-portfolio-website.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=codewars&logoColor=white" alt="Portfolio">
   </a>
-
 </div>
 
 <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
+<br>
+
 <!-- ABOUT & CONNECT DUAL CARD SYSTEM -->
 <table width="100%">
   <tr>
