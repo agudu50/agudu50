@@ -5,13 +5,22 @@
 
 <div align="center">
 
-<h1>
-  Anthony Gudu
-</h1>
 
-<p>
-  Co-Founder of <span style="color:#8B5CF6;"><b>Zoharix</b></span> 🚀 | Full-Stack Engineer | AI & Blockchain Builder
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Anthony+Gudu;Full-Stack+Engineer;AI+%26+Blockchain+Builder;Co-Founder+of+Zoharix+%F0%9F%9A%80" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Co--Founder-Zoharix-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-Engineer-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20%26%20Blockchain-Builder-EC4899?style=for-the-badge" />
+
+<br><br>
+
+<h3>
+  ⚡ Building the Future with Code, AI & Decentralized Technologies ⚡
+</h3>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Systems;Exploring+Blockchain+%26+Decentralized+Tech;Crafting+Scalable+Web+Applications;Turning+Ideas+Into+Real-World+Products" />
 
