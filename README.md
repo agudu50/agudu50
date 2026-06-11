@@ -1,23 +1,44 @@
+<a href="https://komarev.com/ghpvc/?username=agudu50">
+  <img align="right" src="https://komarev.com/ghpvc/?username=agudu50&label=Visitors&color=8B5CF6&style=for-the-badge" />
+</a>
+
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="middle">
 
-# Anthony Gudu
+<h1>👋 Anthony Gudu</h1>
 
-### Co-Founder of Zoharix 🚀
+<h3>Co-Founder of Zoharix 🚀</h3>
 
-- Full-Stack Engineer
-- AI & Blockchain Builder
-- Building products that matter
+<p>
+Full-Stack Engineer passionate about building scalable products,
+AI-powered solutions, and blockchain applications.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=8B5CF6&width=500&lines=Full-Stack+Engineer;AI+Builder;Blockchain+Developer;Open+Source+Enthusiast" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI-Builder-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web3-Developer-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Founder-Zoharix-8B5CF6?style=for-the-badge" />
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656969-9e9768db-f42d-4c00-9f44-3f1f5f5f85d3.gif" width="100%"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/216655848-eabb4df0-6f1c-4f38-b9d1-6c4f2a4b4f16.gif"/>
 
 </td>
 </tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" width="100%" />
+
+</div>
+
 </table>
 
 <p align="center">🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding—it’s about creating, innovating, and making an impact. Let’s build the future together! 💡</p> 
