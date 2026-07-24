@@ -111,108 +111,78 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
 <br>
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-
-<!--                  🏆 GITHUB TROPHY CABINET                    -->
-
-<!-- ═════════════════════════════════════════════════════════════ -->
-
+<!-- 🏆 GITHUB TROPHY CABINET -->
 <h2 align="center">🏆 GitHub Trophy Cabinet</h2>
-
-<p align="center">
-  <i>Milestones earned through code, collaboration, and consistency.</i>
-</p>
-
+<p align="center"><i>Milestones earned through code, collaboration, and consistency.</i></p>
 <br>
 
-<!-- ──────────────────────── GITHUB STATS ──────────────────────── -->
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
+    alt="GitHub Statistics" 
   />
 </p>
-
 <br>
 
-<!-- ─────────────────────── TROPHY CATEGORIES ─────────────────── -->
+<!-- GitHub Trophies -->
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" 
+    alt="GitHub Trophies" 
+  />
+</p>
+<br>
 
+<!-- Modern Categories -->
 <table align="center">
 <tr>
-
 <td align="center" width="200">
-<h2>💻</h2>
-<b>CODE CREATOR</b>
-<br><br>
-<sub>Building with consistency</sub>
+  <h2>💻</h2>
+  <b>CODE CREATOR</b><br>
+  <sub>Building with consistency</sub>
 </td>
-
 <td align="center" width="200">
-<h2>📦</h2>
-<b>PROJECT BUILDER</b>
-<br><br>
-<sub>Turning ideas into software</sub>
+  <h2>📦</h2>
+  <b>PROJECT BUILDER</b><br>
+  <sub>Turning ideas into software</sub>
 </td>
-
 <td align="center" width="200">
-<h2>⭐</h2>
-<b>COMMUNITY IMPACT</b>
-<br><br>
-<sub>Creating projects people value</sub>
+  <h2>⭐</h2>
+  <b>COMMUNITY IMPACT</b><br>
+  <sub>Creating projects people value</sub>
 </td>
-
 </tr>
-
 <tr>
-
 <td align="center" width="200">
-<h2>🍴</h2>
-<b>OPEN SOURCE</b>
-<br><br>
-<sub>Sharing and collaborating</sub>
+  <h2>🍴</h2>
+  <b>OPEN SOURCE</b><br>
+  <sub>Sharing and collaborating</sub>
 </td>
-
 <td align="center" width="200">
-<h2>👥</h2>
-<b>DEVELOPER NETWORK</b>
-<br><br>
-<sub>Connecting with developers</sub>
+  <h2>👥</h2>
+  <b>DEVELOPER NETWORK</b><br>
+  <sub>Connecting with developers</sub>
 </td>
-
 <td align="center" width="200">
-<h2>🌟</h2>
-<b>GITHUB PRESENCE</b>
-<br><br>
-<sub>Growing through open source</sub>
+  <h2>🌟</h2>
+  <b>GITHUB PRESENCE</b><br>
+  <sub>Growing through open source</sub>
 </td>
-
 </tr>
 </table>
-
 <br>
 
-<!-- ─────────────────────── ACHIEVEMENT PATH ──────────────────── -->
-
+<!-- Achievement Path -->
 <h3 align="center">🏅 Achievement Path</h3>
-
-<p align="center">
-  🧠 <b>Learn</b>
-  &nbsp; ━━━ &nbsp;
-  💻 <b>Code</b>
-  &nbsp; ━━━ &nbsp;
-  📦 <b>Build</b>
-  &nbsp; ━━━ &nbsp;
-  🚀 <b>Ship</b>
-  &nbsp; ━━━ &nbsp;
-  🌍 <b>Impact</b>
-  &nbsp; ━━━ &nbsp;
+<p align="center" style="font-size: 1.15em; background: rgba(30, 30, 46, 0.6); padding: 14px 28px; border-radius: 50px; display: inline-block;">
+  🧠 <b>Learn</b> &nbsp;━━━&nbsp; 
+  💻 <b>Code</b> &nbsp;━━━&nbsp; 
+  📦 <b>Build</b> &nbsp;━━━&nbsp; 
+  🚀 <b>Ship</b> &nbsp;━━━&nbsp; 
+  🌍 <b>Impact</b> &nbsp;━━━&nbsp; 
   🏆 <b>Grow</b>
 </p>
-
-<br>
-
-
 
 
 
