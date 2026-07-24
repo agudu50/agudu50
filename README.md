@@ -258,23 +258,6 @@
 
 <br>
 
-<!-- ───────────────────── DEVELOPER JOURNEY ───────────────────── -->
-
-<h3 align="center">🥇 Developer Journey</h3>
-
-<p align="center">
-  🏆 <b>Build</b>
-  &nbsp; • &nbsp;
-  🚀 <b>Ship</b>
-  &nbsp; • &nbsp;
-  🧠 <b>Learn</b>
-  &nbsp; • &nbsp;
-  💡 <b>Innovate</b>
-  &nbsp; • &nbsp;
-  ☕ <b>Repeat</b>
-</p>
-
-<br>
 
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
 
