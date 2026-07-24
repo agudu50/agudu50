@@ -113,7 +113,7 @@
 
 <!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--                     🏆 TROPHY CABINET                       -->
+<!--                  🏆 GITHUB TROPHY CABINET                    -->
 
 <!-- ═════════════════════════════════════════════════════════════ -->
 
@@ -125,71 +125,88 @@
 
 <br>
 
+<p align="center">
+
+  <img src="https://img.shields.io/github/commit-activity/y/agudu50?label=YEARLY%20ACTIVITY&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/repos/agudu50?label=REPOSITORIES&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/stars/agudu50?label=TOTAL%20STARS&style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/github/forks/agudu50?label=TOTAL%20FORKS&style=for-the-badge" />
+
+  <img src="https://img.shields.io/github/followers/agudu50?label=FOLLOWERS&style=for-the-badge" />
+
+  <img src="https://komarev.com/ghpvc/?username=agudu50&label=PROFILE%20VIEWS&style=for-the-badge" />
+
+</p>
+
+<br>
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<!--                     🏅 ACHIEVEMENT GRID                      -->
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+
 <table align="center">
 <tr>
 
-<td align="center" width="180">
-  <h2>💻</h2>
-  <b>CODE CREATOR</b>
-  <br><br>
-  <img src="https://img.shields.io/github/commit-activity/y/agudu50?style=for-the-badge&label=COMMITS" />
-  <br><br>
-  <sub>Consistent coding activity</sub>
+<td align="center" width="200">
+<h2>💻</h2>
+<b>CODE CREATOR</b>
+<br><br>
+<sub>Consistent coding activity</sub>
 </td>
 
-<td align="center" width="180">
-  <h2>📦</h2>
-  <b>PROJECT BUILDER</b>
-  <br><br>
-  <img src="https://img.shields.io/github/repos/agudu50?style=for-the-badge&label=REPOSITORIES" />
-  <br><br>
-  <sub>Projects created and maintained</sub>
+<td align="center" width="200">
+<h2>📦</h2>
+<b>PROJECT BUILDER</b>
+<br><br>
+<sub>Projects created and maintained</sub>
 </td>
 
-<td align="center" width="180">
-  <h2>⭐</h2>
-  <b>COMMUNITY IMPACT</b>
-  <br><br>
-  <img src="https://img.shields.io/github/stars/agudu50?style=for-the-badge&label=STARS" />
-  <br><br>
-  <sub>Projects appreciated by others</sub>
+<td align="center" width="200">
+<h2>⭐</h2>
+<b>COMMUNITY IMPACT</b>
+<br><br>
+<sub>Projects appreciated by others</sub>
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center" width="180">
-  <h2>🍴</h2>
-  <b>OPEN SOURCE</b>
-  <br><br>
-  <img src="https://img.shields.io/github/forks/agudu50?style=for-the-badge&label=FORKS" />
-  <br><br>
-  <sub>Code shared with the community</sub>
+<td align="center" width="200">
+<h2>🍴</h2>
+<b>OPEN SOURCE</b>
+<br><br>
+<sub>Code shared with the community</sub>
 </td>
 
-<td align="center" width="180">
-  <h2>👥</h2>
-  <b>DEVELOPER NETWORK</b>
-  <br><br>
-  <img src="https://img.shields.io/github/followers/agudu50?style=for-the-badge&label=FOLLOWERS" />
-  <br><br>
-  <sub>Growing developer community</sub>
+<td align="center" width="200">
+<h2>👥</h2>
+<b>DEVELOPER NETWORK</b>
+<br><br>
+<sub>Growing developer community</sub>
 </td>
 
-<td align="center" width="180">
-  <h2>🌟</h2>
-  <b>GITHUB PRESENCE</b>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=agudu50&style=for-the-badge&label=PROFILE+VIEWS" />
-  <br><br>
-  <sub>Developers discovering my work</sub>
+<td align="center" width="200">
+<h2>🌟</h2>
+<b>GITHUB PRESENCE</b>
+<br><br>
+<sub>Developers discovering my work</sub>
 </td>
 
 </tr>
 </table>
 
 <br>
+
 
 
 
