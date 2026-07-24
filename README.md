@@ -118,10 +118,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" 
-    alt="GitHub Statistics" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=radical&hide_border=true" alt="Streak" />
 </p>
 <br>
 
