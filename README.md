@@ -125,33 +125,18 @@
 
 <br>
 
-<p align="center">
-
-  <img src="https://img.shields.io/github/commit-activity/y/agudu50?label=YEARLY%20ACTIVITY&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/repos/agudu50?label=REPOSITORIES&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/stars/agudu50?label=TOTAL%20STARS&style=for-the-badge" />
-
-</p>
+<!-- ──────────────────────── GITHUB STATS ──────────────────────── -->
 
 <p align="center">
-
-  <img src="https://img.shields.io/github/forks/agudu50?label=TOTAL%20FORKS&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/followers/agudu50?label=FOLLOWERS&style=for-the-badge" />
-
-  <img src="https://komarev.com/ghpvc/?username=agudu50&label=PROFILE%20VIEWS&style=for-the-badge" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+  />
 </p>
 
 <br>
 
-<!-- ═════════════════════════════════════════════════════════════ -->
-
-<!--                     🏅 ACHIEVEMENT GRID                      -->
-
-<!-- ═════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────── TROPHY CATEGORIES ─────────────────── -->
 
 <table align="center">
 <tr>
@@ -160,21 +145,21 @@
 <h2>💻</h2>
 <b>CODE CREATOR</b>
 <br><br>
-<sub>Consistent coding activity</sub>
+<sub>Building with consistency</sub>
 </td>
 
 <td align="center" width="200">
 <h2>📦</h2>
 <b>PROJECT BUILDER</b>
 <br><br>
-<sub>Projects created and maintained</sub>
+<sub>Turning ideas into software</sub>
 </td>
 
 <td align="center" width="200">
 <h2>⭐</h2>
 <b>COMMUNITY IMPACT</b>
 <br><br>
-<sub>Projects appreciated by others</sub>
+<sub>Creating projects people value</sub>
 </td>
 
 </tr>
@@ -185,27 +170,48 @@
 <h2>🍴</h2>
 <b>OPEN SOURCE</b>
 <br><br>
-<sub>Code shared with the community</sub>
+<sub>Sharing and collaborating</sub>
 </td>
 
 <td align="center" width="200">
 <h2>👥</h2>
 <b>DEVELOPER NETWORK</b>
 <br><br>
-<sub>Growing developer community</sub>
+<sub>Connecting with developers</sub>
 </td>
 
 <td align="center" width="200">
 <h2>🌟</h2>
 <b>GITHUB PRESENCE</b>
 <br><br>
-<sub>Developers discovering my work</sub>
+<sub>Growing through open source</sub>
 </td>
 
 </tr>
 </table>
 
 <br>
+
+<!-- ─────────────────────── ACHIEVEMENT PATH ──────────────────── -->
+
+<h3 align="center">🏅 Achievement Path</h3>
+
+<p align="center">
+  🧠 <b>Learn</b>
+  &nbsp; ━━━ &nbsp;
+  💻 <b>Code</b>
+  &nbsp; ━━━ &nbsp;
+  📦 <b>Build</b>
+  &nbsp; ━━━ &nbsp;
+  🚀 <b>Ship</b>
+  &nbsp; ━━━ &nbsp;
+  🌍 <b>Impact</b>
+  &nbsp; ━━━ &nbsp;
+  🏆 <b>Grow</b>
+</p>
+
+<br>
+
 
 
 
