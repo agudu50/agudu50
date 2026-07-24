@@ -23,7 +23,7 @@
   </p>
 
   <h3 style="margin-top: 20px;">
-    💻 Software Engineer • 🎨 Graphic Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
+    💻 Software Engineer • 🎨 Designer • 🤖 AI Enthusiast • 🌐 Web3 Developer
   </h3>
 
   <br>
