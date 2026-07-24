@@ -185,80 +185,93 @@
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                 🏆 GITHUB DEVELOPER DASHBOARD              -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 GitHub Developer Dashboard</h2>
+
+<p align="center">
+  <i>Building • Learning • Contributing • Growing</i>
+</p>
+
+<br>
+
 <!-- ───────────────────────── TROPHIES ───────────────────────── -->
 
-<h3 align="center">🏆 GitHub Trophies & Achievements</h3>
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=2&column=6"
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
     alt="GitHub Trophies"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <i>🏆 Every contribution is a step forward. Every repository tells a story.</i>
-</p>
-
-<br>
-
-<!-- ───────────────────────── CONTRIBUTION FLOW ───────────────────────── -->
-
-<h3 align="center">📈 Contribution Flow</h3>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=tokyo-night&hide_border=true&area=true&radius=12"
-    alt="GitHub Activity Graph"
-    width="100%"
   />
 </p>
 
 <br>
 
-<!-- ───────────────────────── COMMIT ANALYTICS ───────────────────────── -->
+<!-- ─────────────────────── GITHUB STATS ─────────────────────── -->
 
-<h3 align="center">💻 Development Analytics</h3>
+<h3 align="center">📊 GitHub Statistics</h3>
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agudu50&theme=tokyonight" width="100%" />
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agudu50&theme=tokyonight" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="49%"
+  />
+</p>
 
 <br>
 
-<!-- ───────────────────────── CUP / ACHIEVEMENT BANNER ───────────────────────── -->
+<!-- ───────────────────── TOP LANGUAGES ───────────────────── -->
+
+<h3 align="center">💻 Most Used Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<br>
+
+<!-- ──────────────────── ACTIVITY GRAPH ───────────────────── -->
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+<br>
+
+<!-- ───────────────────── DEVELOPER JOURNEY ───────────────────── -->
 
 <h3 align="center">🥇 Developer Journey</h3>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7"
-    alt="GitHub Achievement Cups"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <b>🏆 Code • 🚀 Build • 🧠 Learn • ☕ Repeat</b>
+  🏆 <b>Build</b>
+  &nbsp; • &nbsp;
+  🚀 <b>Ship</b>
+  &nbsp; • &nbsp;
+  🧠 <b>Learn</b>
+  &nbsp; • &nbsp;
+  💡 <b>Innovate</b>
+  &nbsp; • &nbsp;
+  ☕ <b>Repeat</b>
 </p>
 
 <br>
@@ -266,21 +279,21 @@
 <!-- ───────────────────────── FOOTER ───────────────────────── -->
 
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8B5CF6,100:06B6D4"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8B5CF6,100:06B6D4"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <i>⭐ If you find my projects useful, consider giving them a star!</i>
-</p>
-
-<p align="center">
   <a href="https://github.com/agudu50">
-    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore GitHub"
+    />
   </a>
 </p>
+
 
 
 <!-- CERTIFICATIONS & CREDENTIALS -->
