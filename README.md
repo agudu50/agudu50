@@ -123,10 +123,7 @@
 <br>
 
 <!-- GitHub Trophies -->
-<!-- Alternative Trophies / Achievements Display -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs" alt="Additional Stats" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
 <br>
 
 <!-- Modern Categories -->
