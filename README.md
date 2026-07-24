@@ -111,11 +111,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--                    GITHUB DEVELOPER ZONE                    -->
+<!--                 ⚡ GITHUB DEVELOPER ZONE                     -->
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">⚡ GitHub Developer Zone</h2>
 
@@ -123,50 +123,96 @@
   <b>Building innovative solutions • Learning new technologies • Solving real-world problems</b>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_BUILDING-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_LEARNING-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_INNOVATING-10B981?style=for-the-badge" />
+</p>
+
 <br>
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--             STATS               -->
+<!--                     📊 DEVELOPER STATS                       -->
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">📊 Developer Statistics</h3>
+<h2 align="center">📊 Developer Statistics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
   />
 </p>
 
 <br>
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--          TROPHY ROOM            -->
+<!--                     🏆 TROPHY ROOM                          -->
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">🏆 Trophy Room</h3>
+<h2 align="center">🏆 Trophy Room</h2>
 
 <p align="center">
-  🥇 🥈 🥉 🏆 🎖️ 🏅
+  <b>My Developer Achievement Collection</b>
 </p>
 
+<table align="center">
+<tr>
+
+<td align="center" width="180">
+  <h2>🥇</h2>
+  <b>Code Creator</b>
+  <br>
+  <sub>Turning ideas into working software</sub>
+</td>
+
+<td align="center" width="180">
+  <h2>🏆</h2>
+  <b>Problem Solver</b>
+  <br>
+  <sub>Building solutions for real-world problems</sub>
+</td>
+
+<td align="center" width="180">
+  <h2>🚀</h2>
+  <b>Project Builder</b>
+  <br>
+  <sub>From concept to deployment</sub>
+</td>
+
+<td align="center" width="180">
+  <h2>🎖️</h2>
+  <b>Tech Explorer</b>
+  <br>
+  <sub>Always learning new technologies</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <b>Every commit is progress. Every project is experience.</b>
+  <b>🏅 Every commit is progress • Every project is experience • Every challenge is an opportunity</b>
 </p>
 
 <br>
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--       CONTRIBUTION JOURNEY      -->
+<!--                   🔥 CONTRIBUTION JOURNEY                    -->
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">🔥 Contribution Journey</h3>
+<h2 align="center">🔥 Contribution Journey</h2>
+
+<p align="center">
+  <i>Consistency today creates mastery tomorrow.</i>
+</p>
 
 <p align="center">
   <img
@@ -177,62 +223,101 @@
 
 <br>
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--          CODE LANGUAGES         -->
+<!--                     💻 CODEBASE                             -->
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">💻 My Codebase</h3>
+<h2 align="center">💻 My Codebase</h2>
+
+<p align="center">
+  <i>Technologies and languages powering my projects.</i>
+</p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most Used Programming Languages"
   />
 </p>
 
 <br>
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<!--       DEVELOPER MINDSET         -->
+<!--                   🚀 DEVELOPER MINDSET                      -->
 
-<!-- ─────────────────────────────── -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">🚀 Developer Mindset</h3>
+<h2 align="center">🚀 Developer Mindset</h2>
 
 <table align="center">
 <tr>
-<td align="center" width="150">
-  🧠<br>
-  <b>Learn</b>
+
+<td align="center" width="160">
+  <h2>🧠</h2>
+  <b>LEARN</b>
+  <br>
+  <sub>Stay curious</sub>
 </td>
 
-<td align="center" width="150">
-  💻<br>
-  <b>Build</b>
+<td align="center" width="160">
+  <h2>💻</h2>
+  <b>BUILD</b>
+  <br>
+  <sub>Turn ideas into reality</sub>
 </td>
 
-<td align="center" width="150">
-  🚀<br>
-  <b>Ship</b>
+<td align="center" width="160">
+  <h2>🚀</h2>
+  <b>SHIP</b>
+  <br>
+  <sub>Deliver meaningful products</sub>
 </td>
 
-<td align="center" width="150">
-  🔄<br>
-  <b>Improve</b>
+<td align="center" width="160">
+  <h2>🔄</h2>
+  <b>IMPROVE</b>
+  <br>
+  <sub>Iterate and grow</sub>
 </td>
 
-<td align="center" width="150">
-  🏆<br>
-  <b>Achieve</b>
+<td align="center" width="160">
+  <h2>🏆</h2>
+  <b>ACHIEVE</b>
+  <br>
+  <sub>Celebrate the journey</sub>
 </td>
+
 </tr>
 </table>
 
 <br>
 
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<!--                   🏅 ACHIEVEMENT PATH                        -->
+
+<!-- ═════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏅 Achievement Path</h2>
+
+<p align="center">
+
+🧠 <b>Learn</b>
+  ━━━━  
+💻 <b>Build</b>
+  ━━━━  
+🚀 <b>Ship</b>
+  ━━━━  
+🌍 <b>Impact</b>
+  ━━━━  
+🏆 <b>Grow</b>
+
+</p>
+
+<br>
 
 
 
