@@ -122,6 +122,12 @@
 </p>
 <br>
 
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
+</p>
+<br>
+
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
 <br>
