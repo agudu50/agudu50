@@ -19,7 +19,7 @@
   <br><br>
 
   <p style="max-width: 750px; font-size: 15px; line-height: 1.7; color: #8b949e;">
-    🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as a Frontend Engineer, Graphic Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding it’s about creating, innovating, and making an impact. Let’s build the future together! 💡
+    🌍 The rapid evolution of technology has transformed our lives in ways we never imagined, and being part of this revolution fuels my passion each day. Witnessing the expansion of Information Technology 💡 inspired me to pursue a career as an Engineer, Designer, and AI & Blockchain Enthusiast 🤖. With a deep interest in Full Stack Development, Software Engineering, and AI, I’m constantly learning, experimenting, and pushing the boundaries of what technology can achieve 🚀. For me, technology isn’t just about coding it’s about creating, innovating, and making an impact. Let’s build the future together! 💡
   </p>
 
   <h3 style="margin-top: 20px;">
