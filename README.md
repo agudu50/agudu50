@@ -119,7 +119,7 @@ const tony = {
       </td>
       <td width="25%" valign="top">
         <h4>☁️ Tools & Systems</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,move,solana,redhatlinux&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,move,solana,redhat,linux&perline=3"/>
       </td>
     </tr>
   </table>
