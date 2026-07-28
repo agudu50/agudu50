@@ -98,10 +98,10 @@ const tony = {
 
 <!-- 🏆 GITHUB TROPHY CABINET -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=agudu50&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=22D3EE"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
 </div>
 <br/>
 
