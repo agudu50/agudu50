@@ -142,8 +142,9 @@ const tony = {
  
 ### 🏆 Trophy Cabinet
 
+
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8" />
+  <img src="https://trophy.ryglcloud.net/?username=agudu50&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
 <br/>
