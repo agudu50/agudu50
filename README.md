@@ -59,8 +59,11 @@ const tony = {
   "philosophy": "Technology isn't just about coding it's about creating and making an impact."
 };
 ```
- 
 <br/>
+<table width="100%">
+ <td width="45%" valign="top" align="center">      <h2>🌐 Connect With Me</h2>      <br>      <table cellpadding="8">        <tr>          <td><a href="https://wa.me/+233558524473"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/></a></td>          <td><a href="https://www.linkedin.com/in/anthony-gudu-749234351"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a></td>          <td><a href="https://www.instagram.com/a.gudu_/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/></a></td>        </tr>        <tr>          <td><a href="https://www.snapchat.com/add/gudujnr008"><img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="45"/></a></td>          <td><a href="https://x.com/yourusername"><img src="https://cdn.simpleicons.org/x/ffffff" width="45"/></a></td>          <td><a href="https://github.com/agudu50"><img src="https://cdn.simpleicons.org/github/ffffff" width="45"/></a></td>        </tr>      </table>      <br>      <img alt="coding" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 8px;"/>    </td>  </tr></table>
+
+
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
