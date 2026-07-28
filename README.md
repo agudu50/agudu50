@@ -195,7 +195,7 @@ const tony = {
 
 <div align="center">
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Innovate.+Code.+Inspire.; Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Innovate.+Code.+Inspire.;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
   </h2>
 
   <p>
