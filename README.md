@@ -111,11 +111,11 @@ const tony = {
       </td>
       <td width="25%" valign="top">
         <h4>⚙️ Core & Backend</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,python,java,dotnet&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,python,java,dotnet,nodemon&perline=3"/>
       </td>
       <td width="25%" valign="top">
         <h4>🗄️ Database Tier</h4>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,postgresql&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase,supabase,postgresql&perline=3"/>
       </td>
       <td width="25%" valign="top">
         <h4>☁️ Tools & Systems</h4>
