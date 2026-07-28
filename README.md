@@ -107,7 +107,7 @@ const tony = {
     <tr>
       <td width="25%" valign="top">
         <h4>🎨 Frontend Matrix</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,react-native,vite,bootstrap&perline=3"/>
       </td>
       <td width="25%" valign="top">
         <h4>⚙️ Core & Backend</h4>
