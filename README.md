@@ -194,12 +194,10 @@ const tony = {
  <br><br>
 
 <div align="center">
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Innovate.+Code.+Inspire.;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
-  </h2>
-
-  <p>
-    <sub>⚡ Automated Coffee-to-Code Pipelines running 24/7 ⚡</sub>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1200&color=22D3EE&center=true&vCenter=true&width=520&lines=Innovate.+Code.+Inspire.;Code.+Create.+Inspire." alt="Typing SVG" />
+  
+  <br>
+  
+  <sub>⚡ Automated Coffee-to-Code Pipelines running 24/7 ⚡</sub>
 </div>
 </div>
