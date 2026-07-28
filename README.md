@@ -107,7 +107,7 @@ const tony = {
     <tr>
       <td width="25%" valign="top">
         <h4>🎨 Frontend Matrix</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,bootstrap&perline=3"/>
       </td>
       <td width="25%" valign="top">
         <h4>⚙️ Core & Backend</h4>
@@ -119,7 +119,7 @@ const tony = {
       </td>
       <td width="25%" valign="top">
         <h4>☁️ Tools & Systems</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,move,solana,redhat,linux&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,redhat,linux&perline=3"/>
       </td>
     </tr>
   </table>
