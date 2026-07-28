@@ -96,7 +96,8 @@ const tony = {
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B5CF6" width="100%"/>
 <br>
 
-<!-- 🏆 GITHUB TROPHY CABINET -->
+### 📊 GitHub Analytics
+ 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&count_private=true"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=agudu50&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE&fire=22D3EE"/>
@@ -104,56 +105,17 @@ const tony = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8"/>
 </div>
 <br/>
-
-<!-- Modern Categories -->
-<table align="center">
-<tr>
-<td align="center" width="200">
-  <h2>💻</h2>
-  <b>CODE CREATOR</b><br>
-  <sub>Building with consistency</sub>
-</td>
-<td align="center" width="200">
-  <h2>📦</h2>
-  <b>PROJECT BUILDER</b><br>
-  <sub>Turning ideas into software</sub>
-</td>
-<td align="center" width="200">
-  <h2>⭐</h2>
-  <b>COMMUNITY IMPACT</b><br>
-  <sub>Creating projects people value</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-  <h2>🍴</h2>
-  <b>OPEN SOURCE</b><br>
-  <sub>Sharing and collaborating</sub>
-</td>
-<td align="center" width="200">
-  <h2>👥</h2>
-  <b>DEVELOPER NETWORK</b><br>
-  <sub>Connecting with developers</sub>
-</td>
-<td align="center" width="200">
-  <h2>🌟</h2>
-  <b>GITHUB PRESENCE</b><br>
-  <sub>Growing through open source</sub>
-</td>
-</tr>
-</table>
-<br>
-
-<!-- Achievement Path -->
-<h3 align="center">🏅 Achievement Path</h3>
-<p align="center" style="font-size: 1.15em; background: rgba(30, 30, 46, 0.6); padding: 14px 28px; border-radius: 50px; display: inline-block;">
-  🧠 <b>Learn</b> &nbsp;━━━&nbsp; 
-  💻 <b>Code</b> &nbsp;━━━&nbsp; 
-  📦 <b>Build</b> &nbsp;━━━&nbsp; 
-  🚀 <b>Ship</b> &nbsp;━━━&nbsp; 
-  🌍 <b>Impact</b> &nbsp;━━━&nbsp; 
-  🏆 <b>Grow</b>
-</p>
+---
+ 
+### 🏆 Trophy Cabinet
+ 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8"/>
+</div>
+<br/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=react-dark&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=ffffff&area=true&hide_border=true"/>
+</div>
 
 
 
