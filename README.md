@@ -46,14 +46,18 @@
 ### 🧭 About Me
  
 ```yaml
-cons aboutME = {
-"name: Anthony Gudu",
-role: Co-Founder @ Zoharix
-focus: [Full-Stack Development, AI/ML, Blockchain, Cloud]
-currently_learning: [MERN Stack, Python, Java, Web3]
-open_to: Collaborating on ambitious, world-class projects
-philosophy: "Technology isn't just about coding — it's about creating and making an impact."
-}
+const tony = {
+  "name": "Anthony Gudu",
+  "role": "Co-Founder @ Zoharix",
+  "focus": [
+    "Full-Stack Development, AI/ML, Blockchain, Cloud"
+  ],
+  "currently_learning": [
+    "MERN Stack, Python, Java, Web3"
+  ],
+  "open_to": "Collaborating on ambitious, world-class projects",
+  "philosophy": "Technology isn't just about coding it's about creating and making an impact."
+};
 ```
  
 <br/>
