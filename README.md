@@ -191,7 +191,15 @@ const tony = {
   <!-- BACKGROUND DEPTH FOOTER ANIMATION -->
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750337-4f7e5f55-ffb8-4ef4-b7f4-4b9ec54f2ef0.gif" style="opacity: 0.35; border-radius: 12px;" />
   
-  <br><br>
-  <h3> “Innovate. Code. Inspire.” </h3>
-  <sub>⚡ Automated Coffee-to-Code Pipelines running 24/7 ⚡</sub>
+ <br><br>
+
+<div align="center">
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Innovate.+Code.+Inspire.;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+  </h2>
+
+  <p>
+    <sub>⚡ Automated Coffee-to-Code Pipelines running 24/7 ⚡</sub>
+  </p>
+</div>
 </div>
