@@ -97,20 +97,13 @@ const tony = {
 <br>
 
 <!-- 🏆 GITHUB TROPHY CABINET -->
-<h2 align="center">🏆 GitHub Trophy Cabinet</h2>
-<p align="center"><i>Milestones earned through code, collaboration, and consistency.</i></p>
-<br>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=radical&hide_border=true" alt="Streak" />
-</p>
-<br>
-
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
-<br>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=agudu50&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=agudu50&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=22D3EE"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agudu50&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
+</div>
+<br/>
 
 <!-- Modern Categories -->
 <table align="center">
