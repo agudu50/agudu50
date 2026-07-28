@@ -30,7 +30,7 @@
 
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="450" style="border-radius: 12px;"/>
 
-  <br><br>
+  <br>
   
   <a href="https://agudu-portfolio-website.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=codewars&logoColor=white" alt="Portfolio">
@@ -42,8 +42,6 @@
 <br>
 
 <!-- ABOUT & CONNECT DUAL CARD SYSTEM -->
-
----
  
 ### 🧭 About Me
  
