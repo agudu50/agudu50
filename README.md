@@ -60,60 +60,39 @@ const tony = {
 };
 ```
 <br/>
-<table width="100%">
-  <tr>
-    <td width="45%" valign="top" align="center">
-      <h2>🌐 Connect With Me</h2>
-      
-      <table cellpadding="12" style="margin: 0 auto;">
-        <tr>
-          <td align="center">
-            <a href="https://wa.me/+233558524473" title="WhatsApp">
-              <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" height="42" alt="WhatsApp"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/anthony-gudu-749234351" title="LinkedIn">
-              <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.instagram.com/a.gudu_/" title="Instagram">
-              <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://www.snapchat.com/add/gudujnr008" title="Snapchat">
-              <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="42" height="42" alt="Snapchat"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://x.com/yourusername" title="X (Twitter)">
-              <img src="https://cdn.simpleicons.org/x/ffffff" width="42" height="42" alt="X"/>
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/agudu50" title="GitHub">
-              <img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub"/>
-            </a>
-          </td>
-        </tr>
-      </table>
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
 
-      <br>
+  <p>
+    <a href="https://wa.me/+233558524473">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/anthony-gudu-749234351">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.instagram.com/a.gudu_/">
+      <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.snapchat.com/add/gudujnr008">
+      <img src="https://cdn.simpleicons.org/snapchat/FFFC00" width="40" height="40" alt="Snapchat"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/yourusername">
+      <img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" alt="X"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/agudu50">
+      <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/>
+    </a>
+  </p>
 
-      <img 
-        alt="Coding animation" 
-        width="200" 
-        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-        style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-      />
-    </td>
-  </tr>
-</table>
+  <br/>
 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding"/>
+</div>
 
 
 <br>
