@@ -141,15 +141,16 @@ const tony = {
 ---
  
 ### 🏆 Trophy Cabinet
- 
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=react-dark&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=ffffff&area=true&hide_border=true"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=agudu50&theme=radical&no-frame=true&no-bg=false&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agudu50&theme=react-dark&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
+</div>
 
 
 
