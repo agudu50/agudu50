@@ -5,6 +5,9 @@
   </a>
 </p>
 
+<!-- Contributor Section -->
+[![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/agudu50)
+
 <!-- HERO HEADER SECTION -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Anthony%20Gudu&subtitle=Co-Founder%20@%20Zoharix&fontSize=40&subFontSize=18&fontAlignY=40&animation=twinkling" width="100%"/>
